@@ -45,7 +45,7 @@ def triplets(a, N):
             return 1
         
     for eachElement in range(1,N-3):
-        curSum = curSum - arr[eachElement-1] + arr[eachElement+3-1]
+        curSum = cur   Sum - arr[eachElement-1] + arr[eachElement+3-1]
         print("Enter")
         if curSum == 0:
             return 1
