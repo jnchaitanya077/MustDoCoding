@@ -23,3 +23,21 @@ public class printNTimes{
 
     }
 }
+
+search_queries =[
+# 'iphone7 images',
+# 'Eminem - Love The Way You Lie ft. Rihanna',
+# 'Eminem - Till I Collapse album art',
+# 'Fort Minor - Remember The Name album art',
+# 'Imagine Dragons - Believer album art',
+# 'Imran Khan - Satisfya album art',
+# 'Kehlani & G-Eazy - Good Life album art',
+# 'Lean On album art',
+# 'Let Me Love You ft. Justin Bieber album art',
+# 'Sam Tinnesz - Legends Are Made album art',
+# 'The Script - Hall of Fame album art',
+# 'Sia - Unstoppable (Divergent FMV) album art',
+# 'Tokyo Drift - Teriyaki Boyz album art',
+# 'Wiz Khalifa - See You Again album art',
+# ]
+# 
